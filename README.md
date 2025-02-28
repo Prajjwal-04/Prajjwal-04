@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Prajjwal! 🚀
 
-![Banner](https://user-images.githubusercontent.com/your-banner-image)
+![Banner](https://i.postimg.cc/ZqGHT1x8/DALL-E-2025-02-28-23-12-57-A-modern-and-sleek-Git-Hub-profile-banner-featuring-the-name-Prajjwal-G.webp)
 
 🚀 **Computer Science Engineering | Big Data Analytics | Software Development**
 

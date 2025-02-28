@@ -25,9 +25,9 @@
 - 🏗️ **Scalable Distributed Systems**  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajjwal-gupta-339991173)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](#)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](#)  
+ 
 
 ---  
 ⭐️ *Feel free to check out my repositories and collaborate on exciting projects!* 🚀
